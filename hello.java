@@ -1,16 +1,1 @@
-package com.hewentao.controller;
-
-import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.RequestMapping;
-
-
-@Controller
-public class HelloController {
-    @RequestMapping("/hello")
-    public String hello() {
-        return "index";
-    }
-
-
-}
-
+我使用git命令行提交的本地代码
